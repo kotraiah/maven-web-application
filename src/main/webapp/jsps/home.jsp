@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Thanvika software solutions </h1>
-<h1 align="center"> Welcome to Thanvika software solutions, we are provind very Technical & customer orienited services to everyone. Please give your reviews in FB and Google.</h1>
+<h1 align="center"> Design your Dream life to work on softwares “Quality is free, but only to those who are willing to pay heavily for it.”Please give your reviews in FB and Google.</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
